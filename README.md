@@ -31,6 +31,6 @@ uart_project/
 
 This project implements a **Universal Asynchronous Receiver-Transmitter (UART)** module.
 
-![UART Block Diagram]("C:\Users\vaishnavi sulpi\Desktop\1.jpg")
+![UART Block Diagram]("wave 1.png")
 
 The diagram above shows the block-level architecture of the UART module.
