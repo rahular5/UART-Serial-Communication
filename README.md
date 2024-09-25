@@ -25,8 +25,12 @@ uart_project/
 └── README.md               # Project documentation
 # UART-Serial-Communication
 "Implementation of a UART (Universal Asynchronous Receiver/Transmitter) module in Verilog, designed for serial communication between devices. The project includes a testbench for simulation and verification of the UART functionality, with support for 9600 baud rate and transmission/reception of 8-bit data."
+# UART Project with GDS3D Integration
 
+## Project Overview
 
+This project implements a **Universal Asynchronous Receiver-Transmitter (UART)** module.
 
+![UART Block Diagram]("C:\Users\vaishnavi sulpi\Desktop\1.jpg")
 
-
+The diagram above shows the block-level architecture of the UART module.
